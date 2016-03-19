@@ -8,5 +8,13 @@ module.exports = {
     parse: false,
     hapiRemote: true,
     hapiLocal: false
+  },
+  HAPI: {
+    local: {
+      url: ''
+    },
+    remote: {
+      url: ''
+    }
   }
 }
